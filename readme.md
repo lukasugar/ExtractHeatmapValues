@@ -7,10 +7,10 @@ This code was written because [this](http://www.graphreader.com/2dreader) didn't
 Seems like `colormath` doesn't work with newer versions of `numpy`, so an older version of `numpy` needs to be used, which means older version of `opencv-python` needs to be used, which doesn't run well of Python 3.8+...
 
 This is the setup in which the code works:
-Use python 3.6.X
-Upgrade `pip` using `pip install --upgrade pip`.
 
-Then install packages with `pip install -r requirements.txt`
+- Use python 3.6.X
+- Upgrade `pip` using `pip install --upgrade pip`.
+- Install packages with `pip install -r requirements.txt`
 
 ## Getting the results
 An image like this is expected:
