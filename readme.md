@@ -29,4 +29,5 @@ To get these values, you can run `preview_image.py`. The image will be shown and
 
 Fill those values into `extract_values` script and run it.
 At the end, the extracted values will be shown on the image and printed in the terminal.
+
 ![Final output image](./media/final_output.png)
